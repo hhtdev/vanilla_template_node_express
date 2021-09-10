@@ -2,6 +2,14 @@
 
 Squelette Node.JS + Expres en MVC
 
+# Prérequis
+
+Executer la commande d'initialisation de l'environnement Node
+
+```bash
+npm init
+```
+
 ## Installation
 
 Cloner le repo avec la commande suivante :
@@ -35,4 +43,4 @@ node index.js prod
 ```
 
 ## Ressources
-En cas de problème : Hugo HERAULT (hugo.herault1@gmail.com)
+En cas de problème : Prénom NOM (Adresse mail)

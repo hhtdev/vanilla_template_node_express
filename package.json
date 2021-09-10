@@ -1,7 +1,7 @@
 {
   "name": "vanilla_template_node_express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Squelette Node.JS + Expres en MVC",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "eslint": "^7.31.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhtdev/vanilla_template_node_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hhtdev/vanilla_template_node_express/issues"
+  },
+  "homepage": "https://github.com/hhtdev/vanilla_template_node_express#readme"
 }
